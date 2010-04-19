@@ -1,0 +1,284 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Eduard Luhtonen <eduard.luhtonen@wippies.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+
+#. Text in function
+#: blogtheme/tag.php:51
+#: blogtheme/index.php:51
+#: blogtheme/archive.php:51
+#: blogtheme/search.php:51
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Старые записи"
+
+#. Text in function
+#: blogtheme/comments.php:83
+#: blogtheme/comments.php:90
+msgid "(required)"
+msgstr "(обязателен)"
+
+#. Text in echo
+#: blogtheme/404.php:15
+msgid "<em>404</em> Error!"
+msgstr "Ошибка <em>404</em>!"
+
+#. Text in echo
+#: blogtheme/footer.php:36
+msgid "All Rights Reserved. BlogTheme by"
+msgstr "Все права защищены. По BlogTheme"
+
+#. Text in echo
+#: blogtheme/header.php:11
+#: blogtheme/header.php:12
+msgid "Archive"
+msgstr "Архив"
+
+#. Text in echo
+#: blogtheme/template-archives.php:25
+msgid "Archives"
+msgstr "Архивы"
+
+#. Text in echo
+#: blogtheme/header.php:8
+msgid "Author Archives"
+msgstr "Архивы автора"
+
+#. Text in echo
+#: blogtheme/tag.php:20
+#: blogtheme/index.php:20
+#: blogtheme/single.php:20
+#: blogtheme/comments.php:29
+#: blogtheme/archive.php:20
+#: blogtheme/search.php:20
+msgid "By"
+msgstr "Автор"
+
+#. Text in echo
+#: blogtheme/template-sitemap.php:35
+#: blogtheme/template-archives.php:40
+msgid "Categories"
+msgstr "Разделы"
+
+#. Text in echo
+#: blogtheme/template-sitemap.php:54
+#: blogtheme/tag.php:22
+#: blogtheme/index.php:22
+#: blogtheme/single.php:23
+#: blogtheme/archive.php:22
+#: blogtheme/search.php:22
+msgid "Comments"
+msgstr "Комментарии"
+
+#. Text in echo
+#: blogtheme/tag.php:32
+#: blogtheme/index.php:32
+#: blogtheme/archive.php:32
+#: blogtheme/search.php:32
+msgid "Continue Reading..."
+msgstr "Продолжить чтение..."
+
+#. Text in echo
+#: blogtheme/footer.php:36
+msgid "Copyright"
+msgstr "Авторское право"
+
+#. Text in echo
+#: blogtheme/includes/theme-comments.php:15
+msgid "Direct link to this comment"
+msgstr "Прямая ссылка на этот комментарий"
+
+#. Text in function
+#: blogtheme/includes/theme-comments.php:15
+msgid "Edit"
+msgstr "Радактировать"
+
+#. Text in echo
+#: blogtheme/comments.php:90
+msgid "Email"
+msgstr "Эл.почта"
+
+#. Text in echo
+#: blogtheme/comments.php:66
+msgid "Hi, Stranger! Leave Your Comment..."
+msgstr "Привет, незнакомец! Оставьте ваш комментарий..."
+
+#. Text in echo
+#: blogtheme/header.php:73
+msgid "Home"
+msgstr "Главная"
+
+#. Text in echo
+#: blogtheme/single.php:21
+msgid "In"
+msgstr "В"
+
+#. Text in echo
+#: blogtheme/comments.php:77
+msgid "Logged in as"
+msgstr "Вы вошли как"
+
+#. Text in echo
+#: blogtheme/comments.php:77
+msgid "Logout &raquo;"
+msgstr "Выйти &raquo;"
+
+#. Text in echo
+#: blogtheme/comments.php:106
+msgid "Message"
+msgstr "Сообщение"
+
+#. Text in echo
+#: blogtheme/template-archives.php:46
+msgid "Monthly Archives"
+msgstr "Архив по месяцам"
+
+#. Text in echo
+#: blogtheme/comments.php:83
+msgid "Name"
+msgstr "Имя"
+
+#. Text in function
+#: blogtheme/tag.php:52
+#: blogtheme/index.php:52
+#: blogtheme/archive.php:52
+#: blogtheme/search.php:52
+msgid "Newer Entries &raquo;"
+msgstr "Новые записи &raquo;"
+
+#. Text in echo
+#: blogtheme/template-sitemap.php:29
+msgid "Pages"
+msgstr "Старницы"
+
+#. Text in echo
+#: blogtheme/header.php:7
+msgid "Search Results"
+msgstr "Результат поиска"
+
+#. Text in echo
+#: blogtheme/template-sitemap.php:25
+msgid "Sitemap"
+msgstr "Карта сайта"
+
+#. Text in echo
+#: blogtheme/404.php:22
+msgid "Sorry! None has been found..."
+msgstr "Извините! Ничего не найдено..."
+
+#. Text in echo
+#: blogtheme/comments.php:114
+msgid "Submit Comment"
+msgstr "Добавить комментарий"
+
+#. Text in echo
+#: blogtheme/header.php:13
+msgid "Tag Archive"
+msgstr "Архив меток"
+
+#. Text in echo
+#: blogtheme/template-archives.php:29
+msgid "The Last 30 Posts"
+msgstr "Последние 30 сообщений"
+
+#. Text in echo
+#: blogtheme/comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Это сообщение защищено паролем. Введите пароль для просмотра комментариев."
+
+#. Text in echo
+#: blogtheme/404.php:25
+msgid "Unfortunately we were not able to find that page you were looking for..."
+msgstr "К сожалению, мы не смогли найти страницу, которую вы искали ..."
+
+#. Text in echo
+#: blogtheme/404.php:26
+msgid "We suggest that you try going back one page or visit"
+msgstr "Мы предлагаем вам попробовать вернуться на одну страницу или посетить"
+
+#. Text in echo
+#: blogtheme/comments.php:97
+msgid "Website"
+msgstr "Вебсайт"
+
+#. Text in function
+#: blogtheme/template-sitemap.php:18
+#: blogtheme/template-archives.php:18
+#: blogtheme/page.php:16
+msgid "What is this?"
+msgstr "Что это значит?"
+
+#. Text in echo
+#: blogtheme/header.php:74
+msgid "Where it all began"
+msgstr "Где это все началось"
+
+#. Text in echo
+#: blogtheme/sidebar.php:11
+msgid "You are currently browsing the archives"
+msgstr "Вы просматривате архивы"
+
+#. Text in echo
+#: blogtheme/sidebar.php:7
+#: blogtheme/sidebar.php:8
+#: blogtheme/sidebar.php:9
+#: blogtheme/sidebar.php:10
+msgid "You are currently browsing the archives for"
+msgstr "Вы просматривате архивы"
+
+#. Text in echo
+#: blogtheme/sidebar.php:13
+msgid "You are currently browsing the search results for"
+msgstr "Вы просматривате результаты поиска"
+
+#. Text in echo
+#: blogtheme/sidebar.php:12
+msgid "You are currently browsing the tag archives for"
+msgstr "Вы просматриваете архивы меток"
+
+#. Text in echo
+#: blogtheme/comments.php:69
+msgid "You must be"
+msgstr "Вы должны"
+
+#. Text in function
+#: blogtheme/includes/theme-comments.php:20
+msgid "Your comment is awaiting moderation"
+msgstr "Ваш комментарий ожидает утверждения"
+
+#. Text in echo
+#: blogtheme/tag.php:21
+#: blogtheme/index.php:21
+#: blogtheme/single.php:22
+#: blogtheme/comments.php:30
+#: blogtheme/archive.php:21
+#: blogtheme/search.php:21
+msgid "at"
+msgstr "около"
+
+#. Text in echo
+#: blogtheme/404.php:26
+msgid "instead"
+msgstr "вместо"
+
+#. Text in echo
+#: blogtheme/comments.php:69
+msgid "logged in"
+msgstr "вы вошли в систему"
+
+#. Text in echo
+#: blogtheme/404.php:26
+msgid "our homepage"
+msgstr "наша домашняя страница"
+
+#. Text in echo
+#: blogtheme/comments.php:69
+msgid "to post a comment."
+msgstr "чтобы оставить комментарий."

@@ -1,0 +1,396 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: #f8e3c6 none repeat scroll 0 0;
+    color: #515151;
+    -moz-background-clip: border;
+    -moz-background-inline-policy: continuous;
+    -moz-background-origin: padding;
+    font-family: Georgia, "Times New Roman", serif;
+}
+a {
+    color: #0285b8;
+}
+a:hover {
+    text-decoration: underline;
+}
+p {
+    font-size: 14px;
+    line-height: 1.7em;
+}
+#root, #menu {
+    width: 90%;
+    min-width: 960px;
+    margin: 0 auto;
+}
+#root {
+    text-align: center;
+}
+.thinSlice {
+    border-left: 1px solid #ffb656;
+    border-right: 1px solid #ffb656;
+    border-bottom: 1px solid #ffb656;
+}
+.darkSlice {
+    border-left: 50px solid #fdc47a;
+    border-right: 50px solid #fdc47a;
+    border-bottom: 1px solid #fdc47a;
+}
+.lightSlice {
+    border-left: 50px solid #fbd59f;
+    border-right: 50px solid #fbd59f;
+    border-bottom: 1px solid #fbd59f;    
+}
+#mainContentContainer {
+    min-width: 752px;
+    margin: 0 auto;
+    background-color: #fdf0df;
+}
+#mainContentContainer #mainContent {
+    border-left: 1px solid #db7b00;
+    border-right: 1px solid #db7b00;
+    border-bottom: 1px solid #db7b00;
+}
+#mainContent .row {
+    display: inline;
+    float: left;
+    width: 100%;
+}
+#photoCubeContainer {
+    background-color: #666;
+    border-bottom: 1px solid #aaa;
+}
+#photoCubeContainer .column {
+    display: inline;
+    float: left;
+    width: 33.333%;
+}
+#photoCubeContainer .photoCube {
+    width: 250px;
+    margin: 0 auto;
+    border-left: 1px solid #aaa;
+    border-right: 1px solid #aaa;
+}
+#photoCubeContainer .last {
+    border: 0;
+}
+#logo {
+    height: 82px;
+    background: #403f3e url(../images/logo.bg.repeater.png) repeat-x left top;
+}
+#logo #logoText {
+    float: left;
+    width: 324px;
+    height: 82px;
+    margin-left: 10px;
+    background: transparent url(../images/logo.text.png) no-repeat left top;
+}
+#logo #logoImage {
+    float: right;
+    width: 208px;
+    height: 82px;
+    margin-right: 10px;
+    background: transparent url(../images/logo.anotherModernGirl.png) no-repeat top left;
+}
+#menuContainer {
+    position: absolute;
+    top: 283px;
+    left: 0;
+    width: 100%;
+    height: 70px;
+    line-height: 70px;
+    background-color: #fdf0df;
+    border-top: 1px solid #dc7f07;
+    border-bottom: 1px solid #dc7f07;
+}
+#menuSpacer {
+    height: 72px;
+}
+ul#navigation {
+    margin-left: 102px;
+}
+ul#navigation li {
+    float: left;
+    height: 60px;
+    padding: 5px;
+    cursor: pointer;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+ul#navigation li.selected, ul#navigation li:hover {
+    background-color: #fbd59f;
+}
+ul#navigation li.blog {
+    width: 150px;
+}
+ul#navigation li.aboutMe {
+    width: 212px;
+}
+ul#navigation li.photos {
+    width: 174px;
+    /* background-image: url(../images/menu.photos.png); */
+}
+#twitter {
+    background-color: #dcedff;
+}
+#twitter #twitterBird, #twitter #twitterStatus, #twitter #twitterUserIconContainer {
+    display: inline;
+    float: left;
+}
+#twitter #twitterBird {
+    width: 15%;
+    min-width: 128px;
+    height: 78px;
+    background: transparent url(../images/twitter.bird.png) no-repeat top left;
+}
+#twitter #twitterStatus {
+    width: 70%;
+    min-width: 541px;
+    text-align: left;
+}
+#twitterStatus .status {
+    padding: 5px 0;
+}
+#twitterStatus .status p {
+    line-height: 2em;
+}
+#twitterStatus .byline {
+    text-align: right;
+    font-style: italic;
+    font-size: 13px;
+}
+#twitter #twitterUserIconContainer {
+    width: 15%;
+    min-width: 83px;
+}
+#twitterUserIcon {
+    width: 73px;
+    height: 73px;
+    margin: 10px auto;
+    background: transparent url(../images/twitter.userIcon.png) no-repeat top left;
+    border: 1px solid #6cc7f6;
+}
+#posts, #sidebar {
+    display: inline;
+    float: left;
+}
+#posts {
+    width: 66%;
+}
+.entry {
+    text-align: left;
+}
+.entry p {
+    margin: 15px;
+}
+h2 {
+    font-weight: bold;
+}
+#sidebar {
+    width: 34%;
+}
+#sidebar #content {
+    border-top: 1px solid #db7b00;
+}
+.post .header, .post .byline, .post .body, .post .tags, .post .comments {
+    display: inline;
+    float: left;
+    width: 100%;
+}
+.post .header {
+    position: relative;
+    background-color: #515151;
+    text-align: left;
+}
+.post .header .text {
+    padding: 0 5px;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.post .header .text a {
+    color: #fff;
+    text-decoration: none;
+}
+.post .header .offset, .post .header .diag {
+    position: absolute;
+    background-color: #515151;
+}
+.post .header .offset {
+    left: -11px;
+    height: 100%;
+    width: 11px;
+}
+.post .header .diag {
+    left: -11px;
+    top: 100%;
+    height: 11px;
+    width: 11px;
+    background: transparent url(../images/post.headerDiag.png) no-repeat top left;
+}
+.post .byline {
+    border-bottom: 1px solid #fdc47a;
+}
+.post .byline .date, .post .byline .categoryContainer {
+    display: inline;
+    float: left;
+}
+.post .byline .date {
+    width: 34%;
+    padding: 10px 0;
+    background-color: #f8e3c6;
+}
+.post .byline .date .icon, .post .byline .date .textContainer {
+    display: inline;
+    float: left;
+}
+.post .byline .date .icon {
+    height: 32px;
+    min-width: 32px;
+    width: 34%;
+    background: transparent url(../images/woofunction/clock.png) no-repeat center center;
+}
+.post .byline .date .textContainer {
+    width: 66%;
+}
+.post .byline .date .text {
+    text-align: center;
+    font-weight: bold;
+}
+.post .byline .categoryContainer {
+    min-height: 52px;
+    width: 66%;
+    background-color: #fbd59f;
+}
+.post .byline .categoryContainer .categoryHeader,
+.post .byline .categoryContainer .categories {
+    display: inline;
+    float: left;
+}
+.post .byline .categoryContainer .categoryHeader {
+    min-height: 52px;
+    min-width: 120px;
+}
+.post .byline .categoryContainer .categoryHeader .text {
+    min-height: 52px;
+    line-height: 52px;
+    border-left: 1px solid #fdc47a;
+    font-weight: bold;
+}
+.post .byline .categoryContainer .category {
+    display: inline;
+    float: left;
+    height: 52px;
+    line-height: 52px;
+    cursor: pointer;
+}
+.post .byline .categoryContainer .category .text {
+    padding: 4px;
+    background-color: #db7b00;
+}
+.post .byline .categoryContainer .category .text a {
+    color: #fff;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.post .body {
+    text-align: left;
+}
+.post .body p {
+    margin: 15px;
+}
+.post .body img {
+    border: 1px solid #db7b00;
+}
+.post .tags {
+/* !!! */
+}
+.post .comments {
+/* !!! */
+}
+#footer {
+    margin-top: 10px;
+    padding: 10px;
+    color: #db7b00;
+    background-color: #fbd59f;
+    border-top: 1px solid #db7b00;
+}
+#disqus_thread {
+    padding: 15px;
+}
+#sidebar ul.lifestream li {
+	margin: 5px 0 20px !important;
+}
+
+.pageinfo {
+	background: url(images/commentformbg.png) top left repeat;
+	padding: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 22px;
+	margin: 0 0 10px;
+}
+
+.pageinfo strong {
+	font-weight: bold !important;
+}
+
+.widget {
+    border-left: 1px solid #db7b00;
+    border-bottom: 1px solid #db7b00;
+}
+.widget .title {
+    line-height: 30px;
+    background-color: #fbd59f;
+    font-weight: bold;
+}
+.widget .content {
+    background-color: #f5f5f5;
+    padding: 15px;
+}
+
+.widget li { 
+	margin-bottom: 15px;
+}
+
+#wp-calendar {
+	width: 95%;
+	padding: 0 0 0px 0;
+	margin-bottom: 15px;
+	clear: both;
+}
+
+#wp-calendar caption {
+	padding: 0 0 15px;
+	font-weight:bold;
+	font-size:14px;
+    text-align: center;
+}
+
+#wp-calendar th {
+	color: #fff;
+}
+
+#wp-calendar th, #wp-calendar td {
+	padding: 5px;
+	text-align: center;
+	background: #E7E7E7;
+	color: #9E9E9E;
+}
+
+#wp-calendar td {
+	background: transparent;
+}
+
+#wp-calendar td, table#wp-calendar th {
+	padding: 3px 0;
+}
+
+#wp-calendar a {
+	text-decoration: underline;
+}
+
+#wp-calendar a:hover {
+	text-decoration: none;
+}

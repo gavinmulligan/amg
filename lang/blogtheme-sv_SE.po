@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Patrik Larsson <hqmstudios@plmedia.se>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: blogtheme/tag.php:51
+#: blogtheme/index.php:51
+#: blogtheme/archive.php:51
+#: blogtheme/search.php:51
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Äldre Inlägg"
+
+#. Text in function
+#: blogtheme/comments.php:83
+#: blogtheme/comments.php:90
+msgid "(required)"
+msgstr "(nödvändigt)"
+
+#. Text in echo
+#: blogtheme/404.php:15
+msgid "<em>404</em> Error!"
+msgstr "<em>404</em> Error!"
+
+#. Text in echo
+#: blogtheme/footer.php:36
+msgid "All Rights Reserved. BlogTheme by"
+msgstr "All Rights Reserved. BlogTheme av"
+
+#. Text in echo
+#: blogtheme/header.php:11
+#: blogtheme/header.php:12
+msgid "Archive"
+msgstr "Arkiv"
+
+#. Text in echo
+#: blogtheme/template-archives.php:25
+msgid "Archives"
+msgstr "Arkiv"
+
+#. Text in echo
+#: blogtheme/header.php:8
+msgid "Author Archives"
+msgstr "Författar Arkiv"
+
+#. Text in echo
+#: blogtheme/tag.php:20
+#: blogtheme/index.php:20
+#: blogtheme/single.php:20
+#: blogtheme/comments.php:29
+#: blogtheme/archive.php:20
+#: blogtheme/search.php:20
+msgid "By"
+msgstr "Av"
+
+#. Text in echo
+#: blogtheme/template-sitemap.php:35
+#: blogtheme/template-archives.php:40
+msgid "Categories"
+msgstr "Kategorier"
+
+#. Text in echo
+#: blogtheme/template-sitemap.php:54
+#: blogtheme/tag.php:22
+#: blogtheme/index.php:22
+#: blogtheme/single.php:23
+#: blogtheme/archive.php:22
+#: blogtheme/search.php:22
+msgid "Comments"
+msgstr "Kommentarer"
+
+#. Text in echo
+#: blogtheme/tag.php:32
+#: blogtheme/index.php:32
+#: blogtheme/archive.php:32
+#: blogtheme/search.php:32
+msgid "Continue Reading..."
+msgstr "Fortsätt Läsa..."
+
+#. Text in echo
+#: blogtheme/footer.php:36
+msgid "Copyright"
+msgstr ""
+
+#. Text in echo
+#: blogtheme/includes/theme-comments.php:15
+msgid "Direct link to this comment"
+msgstr "Direkt länk till denna kommentaren"
+
+#. Text in function
+#: blogtheme/includes/theme-comments.php:15
+msgid "Edit"
+msgstr "Redigera"
+
+#. Text in echo
+#: blogtheme/comments.php:90
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: blogtheme/comments.php:66
+msgid "Hi, Stranger! Leave Your Comment..."
+msgstr "Hej, Främling! Lämna din kommentar..."
+
+#. Text in echo
+#: blogtheme/header.php:73
+msgid "Home"
+msgstr "Hem"
+
+#. Text in echo
+#: blogtheme/single.php:21
+msgid "In"
+msgstr "I"
+
+#. Text in echo
+#: blogtheme/comments.php:77
+msgid "Logged in as"
+msgstr "Inloggad som"
+
+#. Text in echo
+#: blogtheme/comments.php:77
+msgid "Logout &raquo;"
+msgstr "Logga ut &raquo;"
+
+#. Text in echo
+#: blogtheme/comments.php:106
+msgid "Message"
+msgstr "Meddelande"
+
+#. Text in echo
+#: blogtheme/template-archives.php:46
+msgid "Monthly Archives"
+msgstr "Månatligt Arkiv"
+
+#. Text in echo
+#: blogtheme/comments.php:83
+msgid "Name"
+msgstr "Namn"
+
+#. Text in function
+#: blogtheme/tag.php:52
+#: blogtheme/index.php:52
+#: blogtheme/archive.php:52
+#: blogtheme/search.php:52
+msgid "Newer Entries &raquo;"
+msgstr "Nyare Inlägg &raquo;"
+
+#. Text in echo
+#: blogtheme/template-sitemap.php:29
+msgid "Pages"
+msgstr "Sidor"
+
+#. Text in echo
+#: blogtheme/header.php:7
+msgid "Search Results"
+msgstr "Sök Resultat"
+
+#. Text in echo
+#: blogtheme/template-sitemap.php:25
+msgid "Sitemap"
+msgstr "Sidkarta"
+
+#. Text in echo
+#: blogtheme/404.php:22
+msgid "Sorry! None has been found..."
+msgstr "Tyvärr! Inga poster funna..."
+
+#. Text in echo
+#: blogtheme/comments.php:114
+msgid "Submit Comment"
+msgstr "Skicka Kommentar"
+
+#. Text in echo
+#: blogtheme/header.php:13
+msgid "Tag Archive"
+msgstr "Tag Arkiv"
+
+#. Text in echo
+#: blogtheme/template-archives.php:29
+msgid "The Last 30 Posts"
+msgstr "30 Senaste Posterna"
+
+#. Text in echo
+#: blogtheme/comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Inlägget är lösenords skyddat. Skriv in lösenord för att visa kommentarer."
+
+#. Text in echo
+#: blogtheme/404.php:25
+msgid "Unfortunately we were not able to find that page you were looking for..."
+msgstr "Tyvärr så kunde vi inte hitta sidan du letade efter..."
+
+#. Text in echo
+#: blogtheme/404.php:26
+msgid "We suggest that you try going back one page or visit"
+msgstr "Vi rekommenderar att du försöker gå tillbaka en sida eller besöker"
+
+#. Text in echo
+#: blogtheme/comments.php:97
+msgid "Website"
+msgstr "Hemsida"
+
+#. Text in function
+#: blogtheme/template-sitemap.php:18
+#: blogtheme/template-archives.php:18
+#: blogtheme/page.php:16
+msgid "What is this?"
+msgstr "Vad är detta?"
+
+#. Text in echo
+#: blogtheme/header.php:74
+msgid "Where it all began"
+msgstr "Var allt började"
+
+#. Text in echo
+#: blogtheme/sidebar.php:11
+msgid "You are currently browsing the archives"
+msgstr "Just nu visar du arkivet"
+
+#. Text in echo
+#: blogtheme/sidebar.php:7
+#: blogtheme/sidebar.php:8
+#: blogtheme/sidebar.php:9
+#: blogtheme/sidebar.php:10
+msgid "You are currently browsing the archives for"
+msgstr "Du visar för tillfället arkivet över"
+
+#. Text in echo
+#: blogtheme/sidebar.php:13
+msgid "You are currently browsing the search results for"
+msgstr "Du visar just nu sök resultatet över"
+
+#. Text in echo
+#: blogtheme/sidebar.php:12
+msgid "You are currently browsing the tag archives for"
+msgstr "Du visar just nu tag arkivet över"
+
+#. Text in echo
+#: blogtheme/comments.php:69
+msgid "You must be"
+msgstr "Du måste vara"
+
+#. Text in function
+#: blogtheme/includes/theme-comments.php:20
+msgid "Your comment is awaiting moderation"
+msgstr "Din kommentar väntar moderation"
+
+#. Text in echo
+#: blogtheme/tag.php:21
+#: blogtheme/index.php:21
+#: blogtheme/single.php:22
+#: blogtheme/comments.php:30
+#: blogtheme/archive.php:21
+#: blogtheme/search.php:21
+msgid "at"
+msgstr ""
+
+#. Text in echo
+#: blogtheme/404.php:26
+msgid "instead"
+msgstr "istället"
+
+#. Text in echo
+#: blogtheme/comments.php:69
+msgid "logged in"
+msgstr "inloggad"
+
+#. Text in echo
+#: blogtheme/404.php:26
+msgid "our homepage"
+msgstr "vår hemsida"
+
+#. Text in echo
+#: blogtheme/comments.php:69
+msgid "to post a comment."
+msgstr "att posta en kommenar."
+

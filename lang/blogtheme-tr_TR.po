@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: blogtheme/tag.php:51
+#: blogtheme/index.php:51
+#: blogtheme/archive.php:51
+#: blogtheme/search.php:51
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Daha Eskiler"
+
+#. Text in function
+#: blogtheme/comments.php:83
+#: blogtheme/comments.php:90
+msgid "(required)"
+msgstr "(gerekli)"
+
+#. Text in echo
+#: blogtheme/404.php:15
+msgid "<em>404</em> Error!"
+msgstr "<em>404</em> Hatası!"
+
+#. Text in echo
+#: blogtheme/footer.php:36
+msgid "All Rights Reserved. BlogTheme by"
+msgstr "Tüm Hakları Saklıdır.BlogTheme'nin Tasarımı:"
+
+#. Text in echo
+#: blogtheme/header.php:11
+#: blogtheme/header.php:12
+msgid "Archive"
+msgstr "Arşiv"
+
+#. Text in echo
+#: blogtheme/template-archives.php:25
+msgid "Archives"
+msgstr "Arşiv"
+
+#. Text in echo
+#: blogtheme/header.php:8
+msgid "Author Archives"
+msgstr "Yazar Arşivi"
+
+#. Text in echo
+#: blogtheme/tag.php:20
+#: blogtheme/index.php:20
+#: blogtheme/single.php:20
+#: blogtheme/comments.php:29
+#: blogtheme/archive.php:20
+#: blogtheme/search.php:20
+msgid "By"
+msgstr "Ekleyen:"
+
+#. Text in echo
+#: blogtheme/template-sitemap.php:35
+#: blogtheme/template-archives.php:40
+msgid "Categories"
+msgstr "Kategoriler"
+
+#. Text in echo
+#: blogtheme/template-sitemap.php:54
+#: blogtheme/tag.php:22
+#: blogtheme/index.php:22
+#: blogtheme/single.php:23
+#: blogtheme/archive.php:22
+#: blogtheme/search.php:22
+msgid "Comments"
+msgstr "Yorumlar"
+
+#. Text in echo
+#: blogtheme/tag.php:32
+#: blogtheme/index.php:32
+#: blogtheme/archive.php:32
+#: blogtheme/search.php:32
+msgid "Continue Reading..."
+msgstr "Okumaya Devam Et..."
+
+#. Text in echo
+#: blogtheme/footer.php:36
+msgid "Copyright"
+msgstr "telif Hakkı"
+
+#. Text in echo
+#: blogtheme/includes/theme-comments.php:15
+msgid "Direct link to this comment"
+msgstr "Bu gönderinin bağlantısı:"
+
+#. Text in function
+#: blogtheme/includes/theme-comments.php:15
+msgid "Edit"
+msgstr "Düzenle"
+
+#. Text in echo
+#: blogtheme/comments.php:90
+msgid "Email"
+msgstr "Eposta"
+
+#. Text in echo
+#: blogtheme/comments.php:66
+msgid "Hi, Stranger! Leave Your Comment..."
+msgstr "Hey!Birşeyler söylemek ister misin?"
+
+#. Text in echo
+#: blogtheme/header.php:73
+msgid "Home"
+msgstr "Anasayfa"
+
+#. Text in echo
+#: blogtheme/single.php:21
+msgid "In"
+msgstr "Kategori:"
+
+#. Text in echo
+#: blogtheme/comments.php:77
+msgid "Logged in as"
+msgstr "Giriş yaptınız:"
+
+#. Text in echo
+#: blogtheme/comments.php:77
+msgid "Logout &raquo;"
+msgstr "Çıkış &raquo;"
+
+#. Text in echo
+#: blogtheme/comments.php:106
+msgid "Message"
+msgstr "İleti"
+
+#. Text in echo
+#: blogtheme/template-archives.php:46
+msgid "Monthly Archives"
+msgstr "Aylık Arşiv"
+
+#. Text in echo
+#: blogtheme/comments.php:83
+msgid "Name"
+msgstr "Adınız"
+
+#. Text in function
+#: blogtheme/tag.php:52
+#: blogtheme/index.php:52
+#: blogtheme/archive.php:52
+#: blogtheme/search.php:52
+msgid "Newer Entries &raquo;"
+msgstr "Daha Yeniler &rquo;"
+
+#. Text in echo
+#: blogtheme/template-sitemap.php:29
+msgid "Pages"
+msgstr "Sayfalar"
+
+#. Text in echo
+#: blogtheme/header.php:7
+msgid "Search Results"
+msgstr "Arama sonuçları"
+
+#. Text in echo
+#: blogtheme/template-sitemap.php:25
+msgid "Sitemap"
+msgstr "site haritası"
+
+#. Text in echo
+#: blogtheme/404.php:22
+msgid "Sorry! None has been found..."
+msgstr "Üzgünüz!Bişey bulunamadı"
+
+#. Text in echo
+#: blogtheme/comments.php:114
+msgid "Submit Comment"
+msgstr "Yorumu Gönder"
+
+#. Text in echo
+#: blogtheme/header.php:13
+msgid "Tag Archive"
+msgstr "Etiket arşivi"
+
+#. Text in echo
+#: blogtheme/template-archives.php:29
+msgid "The Last 30 Posts"
+msgstr "Son 30 Gönderi"
+
+#. Text in echo
+#: blogtheme/comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Bu gönderi şifreyle korunmaktadır.İçeriği görebilmek için şifreyi giriniz."
+
+#. Text in echo
+#: blogtheme/404.php:25
+msgid "Unfortunately we were not able to find that page you were looking for..."
+msgstr "Malesef aradığın safyayı bulamadık :("
+
+#. Text in echo
+#: blogtheme/404.php:26
+msgid "We suggest that you try going back one page or visit"
+msgstr "Geri dönüp tekrar denemeni veya "
+
+#. Text in echo
+#: blogtheme/comments.php:97
+msgid "Website"
+msgstr "Website"
+
+#. Text in function
+#: blogtheme/template-sitemap.php:18
+#: blogtheme/template-archives.php:18
+#: blogtheme/page.php:16
+msgid "What is this?"
+msgstr "Bu ne?"
+
+#. Text in echo
+#: blogtheme/header.php:74
+msgid "Where it all began"
+msgstr "Herşeyin başladığı yer"
+
+#. Text in echo
+#: blogtheme/sidebar.php:11
+msgid "You are currently browsing the archives"
+msgstr "Arşivleri tarıyorsunuz"
+
+#. Text in echo
+#: blogtheme/sidebar.php:7
+#: blogtheme/sidebar.php:8
+#: blogtheme/sidebar.php:9
+#: blogtheme/sidebar.php:10
+msgid "You are currently browsing the archives for"
+msgstr "Bunun için arşivi tarıyorsunuz:"
+
+#. Text in echo
+#: blogtheme/sidebar.php:13
+msgid "You are currently browsing the search results for"
+msgstr "Bunun için sonuçlara bakıyorsunuz:"
+
+#. Text in echo
+#: blogtheme/sidebar.php:12
+msgid "You are currently browsing the tag archives for"
+msgstr "Bunun için etiket arşivini tarıyorsunuz:"
+
+#. Text in echo
+#: blogtheme/comments.php:69
+msgid "You must be"
+msgstr "Yorum yapmak için"
+
+#. Text in function
+#: blogtheme/includes/theme-comments.php:20
+msgid "Your comment is awaiting moderation"
+msgstr "Yorumun onaylandıktan sonra yayınlanacaktır."
+
+#. Text in echo
+#: blogtheme/tag.php:21
+#: blogtheme/index.php:21
+#: blogtheme/single.php:22
+#: blogtheme/comments.php:30
+#: blogtheme/archive.php:21
+#: blogtheme/search.php:21
+msgid "at"
+msgstr "Tarih:"
+
+#. Text in echo
+#: blogtheme/404.php:26
+msgid "instead"
+msgstr " ziyaret etmeni öneririz"
+
+#. Text in echo
+#: blogtheme/comments.php:69
+msgid "logged in"
+msgstr "Giriş"
+
+#. Text in echo
+#: blogtheme/404.php:26
+msgid "our homepage"
+msgstr "Anasayfamızı"
+
+#. Text in echo
+#: blogtheme/comments.php:69
+msgid "to post a comment."
+msgstr "yapmalısınız."
+

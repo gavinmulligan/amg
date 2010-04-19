@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: blogtheme/tag.php:51
+#: blogtheme/index.php:51
+#: blogtheme/archive.php:51
+#: blogtheme/search.php:51
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Articoli precedenti"
+
+#. Text in function
+#: blogtheme/comments.php:83
+#: blogtheme/comments.php:90
+msgid "(required)"
+msgstr "(obbligatorio)"
+
+#. Text in echo
+#: blogtheme/404.php:15
+msgid "<em>404</em> Error!"
+msgstr "<em>404</em> Errore!"
+
+#. Text in echo
+#: blogtheme/footer.php:36
+msgid "All Rights Reserved. BlogTheme by"
+msgstr "Tutti i Diritti Riservati. BlogTheme by"
+
+#. Text in echo
+#: blogtheme/header.php:11
+#: blogtheme/header.php:12
+msgid "Archive"
+msgstr "Archivio"
+
+#. Text in echo
+#: blogtheme/template-archives.php:25
+msgid "Archives"
+msgstr "Archivi"
+
+#. Text in echo
+#: blogtheme/header.php:8
+msgid "Author Archives"
+msgstr "Archivio Autori"
+
+#. Text in echo
+#: blogtheme/tag.php:20
+#: blogtheme/index.php:20
+#: blogtheme/single.php:20
+#: blogtheme/comments.php:29
+#: blogtheme/archive.php:20
+#: blogtheme/search.php:20
+msgid "By"
+msgstr "da"
+
+#. Text in echo
+#: blogtheme/template-sitemap.php:35
+#: blogtheme/template-archives.php:40
+msgid "Categories"
+msgstr "Categorie"
+
+#. Text in echo
+#: blogtheme/template-sitemap.php:54
+#: blogtheme/tag.php:22
+#: blogtheme/index.php:22
+#: blogtheme/single.php:23
+#: blogtheme/archive.php:22
+#: blogtheme/search.php:22
+msgid "Comments"
+msgstr "Commenti"
+
+#. Text in echo
+#: blogtheme/tag.php:32
+#: blogtheme/index.php:32
+#: blogtheme/archive.php:32
+#: blogtheme/search.php:32
+msgid "Continue Reading..."
+msgstr "Continua a Leggere..."
+
+#. Text in echo
+#: blogtheme/footer.php:36
+msgid "Copyright"
+msgstr "Copyright"
+
+#. Text in echo
+#: blogtheme/includes/theme-comments.php:15
+msgid "Direct link to this comment"
+msgstr "Link diretto a questo commento"
+
+#. Text in function
+#: blogtheme/includes/theme-comments.php:15
+msgid "Edit"
+msgstr "Modifica"
+
+#. Text in echo
+#: blogtheme/comments.php:90
+msgid "Email"
+msgstr "Email"
+
+#. Text in echo
+#: blogtheme/comments.php:66
+msgid "Hi, Stranger! Leave Your Comment..."
+msgstr "Ciao, Straniero! Lascia il tuo commento..."
+
+#. Text in echo
+#: blogtheme/header.php:73
+msgid "Home"
+msgstr "Home"
+
+#. Text in echo
+#: blogtheme/single.php:21
+msgid "In"
+msgstr "In"
+
+#. Text in echo
+#: blogtheme/comments.php:77
+msgid "Logged in as"
+msgstr "Connesso come"
+
+#. Text in echo
+#: blogtheme/comments.php:77
+msgid "Logout &raquo;"
+msgstr "Esci &raquo;"
+
+#. Text in echo
+#: blogtheme/comments.php:106
+msgid "Message"
+msgstr "Messaggio"
+
+#. Text in echo
+#: blogtheme/template-archives.php:46
+msgid "Monthly Archives"
+msgstr "Archivio per Mese"
+
+#. Text in echo
+#: blogtheme/comments.php:83
+msgid "Name"
+msgstr "Nome"
+
+#. Text in function
+#: blogtheme/tag.php:52
+#: blogtheme/index.php:52
+#: blogtheme/archive.php:52
+#: blogtheme/search.php:52
+msgid "Newer Entries &raquo;"
+msgstr "Articoli pi&ugrave; recenti &raquo;"
+
+#. Text in echo
+#: blogtheme/template-sitemap.php:29
+msgid "Pages"
+msgstr "Pagine"
+
+#. Text in echo
+#: blogtheme/header.php:7
+msgid "Search Results"
+msgstr "Risultati della ricerca"
+
+#. Text in echo
+#: blogtheme/template-sitemap.php:25
+msgid "Sitemap"
+msgstr "Mappa del sito"
+
+#. Text in echo
+#: blogtheme/404.php:22
+msgid "Sorry! None has been found..."
+msgstr "Spiacente! Non &egrave; stato trovato nulla..."
+
+#. Text in echo
+#: blogtheme/comments.php:114
+msgid "Submit Comment"
+msgstr "Lascia il Commento"
+
+#. Text in echo
+#: blogtheme/header.php:13
+msgid "Tag Archive"
+msgstr "Archivio Tag"
+
+#. Text in echo
+#: blogtheme/template-archives.php:29
+msgid "The Last 30 Posts"
+msgstr "Prova a cercare con una parola chiave diversa:"
+
+#. Text in echo
+#: blogtheme/comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Questo articolo &egrave; protetto da password. Digita la password per vedere i commenti."
+
+#. Text in echo
+#: blogtheme/404.php:25
+msgid "Unfortunately we were not able to find that page you were looking for..."
+msgstr "Sfortunatamente non abbiamo trovato la pagina che stavi cercando..."
+
+#. Text in echo
+#: blogtheme/404.php:26
+msgid "We suggest that you try going back one page or visit"
+msgstr "Ti suggeriamo di tornare indietro di una pagina o di visitare"
+
+#. Text in echo
+#: blogtheme/comments.php:97
+msgid "Website"
+msgstr "Sito Web"
+
+#. Text in function
+#: blogtheme/template-sitemap.php:18
+#: blogtheme/template-archives.php:18
+#: blogtheme/page.php:16
+msgid "What is this?"
+msgstr "Cos'&egrave; questo?"
+
+#. Text in echo
+#: blogtheme/header.php:74
+msgid "Where it all began"
+msgstr "Dove tutto cominci&ograve;"
+
+#. Text in echo
+#: blogtheme/sidebar.php:11
+msgid "You are currently browsing the archives"
+msgstr "Stai visualizzando gli archivi"
+
+#. Text in echo
+#: blogtheme/sidebar.php:7
+#: blogtheme/sidebar.php:8
+#: blogtheme/sidebar.php:9
+#: blogtheme/sidebar.php:10
+msgid "You are currently browsing the archives for"
+msgstr "Stai visualizzando gli archivi per"
+
+#. Text in echo
+#: blogtheme/sidebar.php:13
+msgid "You are currently browsing the search results for"
+msgstr "Stai visualizzando i risultati della ricerca per"
+
+#. Text in echo
+#: blogtheme/sidebar.php:12
+msgid "You are currently browsing the tag archives for"
+msgstr "Stai visualizzando gli Archivi dei Tag per"
+
+#. Text in echo
+#: blogtheme/comments.php:69
+msgid "You must be"
+msgstr "Devi essere"
+
+#. Text in function
+#: blogtheme/includes/theme-comments.php:20
+msgid "Your comment is awaiting moderation"
+msgstr "Il tuo commento &egrave; in attesa di essere moderato"
+
+#. Text in echo
+#: blogtheme/tag.php:21
+#: blogtheme/index.php:21
+#: blogtheme/single.php:22
+#: blogtheme/comments.php:30
+#: blogtheme/archive.php:21
+#: blogtheme/search.php:21
+msgid "at"
+msgstr "alle"
+
+#. Text in echo
+#: blogtheme/404.php:26
+msgid "instead"
+msgstr "invece"
+
+#. Text in echo
+#: blogtheme/comments.php:69
+msgid "logged in"
+msgstr "connesso"
+
+#. Text in echo
+#: blogtheme/404.php:26
+msgid "our homepage"
+msgstr "la nostra homepage"
+
+#. Text in echo
+#: blogtheme/comments.php:69
+msgid "to post a comment."
+msgstr "per lasciare un commento."
+
